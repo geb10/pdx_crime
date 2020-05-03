@@ -501,23 +501,6 @@
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
         "CASE_DESC" : "PARTY DISTURBANCE",
-        "occ_date" : 1470441600000,
-        "x_coordina" : 7668235,
-        "y_coordina" : 695283,
-        "census_tra" : 2901
-      },
-      "geometry" : {
-        "x" : 7668235,
-        "y" : 695283
-      }
-    },
-    {
-      "attributes" : {
-        "FID" : 26,
-        "CATEGORY" : "OTHER",
-        "CALL_GROUP" : "DISORDER",
-        "final_case" : "PARTY",
-        "CASE_DESC" : "PARTY DISTURBANCE",
         "occ_date" : 1470700800000,
         "x_coordina" : 7651448,
         "y_coordina" : 662335,
@@ -530,7 +513,7 @@
     },
     {
       "attributes" : {
-        "FID" : 27,
+        "FID" : 26,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -547,7 +530,7 @@
     },
     {
       "attributes" : {
-        "FID" : 28,
+        "FID" : 27,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -564,7 +547,7 @@
     },
     {
       "attributes" : {
-        "FID" : 29,
+        "FID" : 28,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -581,7 +564,7 @@
     },
     {
       "attributes" : {
-        "FID" : 30,
+        "FID" : 29,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -598,7 +581,7 @@
     },
     {
       "attributes" : {
-        "FID" : 31,
+        "FID" : 30,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -615,7 +598,7 @@
     },
     {
       "attributes" : {
-        "FID" : 32,
+        "FID" : 31,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -632,7 +615,7 @@
     },
     {
       "attributes" : {
-        "FID" : 33,
+        "FID" : 32,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -649,7 +632,7 @@
     },
     {
       "attributes" : {
-        "FID" : 34,
+        "FID" : 33,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -666,7 +649,7 @@
     },
     {
       "attributes" : {
-        "FID" : 35,
+        "FID" : 34,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -683,7 +666,7 @@
     },
     {
       "attributes" : {
-        "FID" : 36,
+        "FID" : 35,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -700,7 +683,7 @@
     },
     {
       "attributes" : {
-        "FID" : 37,
+        "FID" : 36,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
@@ -717,7 +700,7 @@
     },
     {
       "attributes" : {
-        "FID" : 38,
+        "FID" : 37,
         "CATEGORY" : "OTHER",
         "CALL_GROUP" : "DISORDER",
         "final_case" : "PARTY",
